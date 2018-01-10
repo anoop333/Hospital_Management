@@ -1,0 +1,4 @@
+#Sun Jan 07 03:22:21 IST 2018
+base.0=/home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

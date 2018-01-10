@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3d3de89e0a589210efc72a0f3677ce0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anoop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/193226419cd295dd52a2d6a868d92f6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/b1c68da85a9c35f502c2c0e348c5fa4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c50a0442a9df8137f508ede8ebb501b0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/42dd49cf2d97cdbd5b63d14e545e6cb5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b75a04a8118e6fe6ad03fbd20452dcd4/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:3:5-66
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support:design:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3d3de89e0a589210efc72a0f3677ce0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3d3de89e0a589210efc72a0f3677ce0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anoop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/193226419cd295dd52a2d6a868d92f6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anoop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/193226419cd295dd52a2d6a868d92f6e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c50a0442a9df8137f508ede8ebb501b0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c50a0442a9df8137f508ede8ebb501b0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/42dd49cf2d97cdbd5b63d14e545e6cb5/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/42dd49cf2d97cdbd5b63d14e545e6cb5/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b75a04a8118e6fe6ad03fbd20452dcd4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b75a04a8118e6fe6ad03fbd20452dcd4/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.exampledemo.parsaniahardik.registerloginsession.MainActivity
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.exampledemo.parsaniahardik.registerloginsession.LoginActivity
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:20:19-48
+activity#com.exampledemo.parsaniahardik.registerloginsession.WelcomeActivity
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:21:9-53
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:21:19-50
+activity#com.exampledemo.parsaniahardik.registerloginsession.Main2Activity
+ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:24:13-57
+	android:theme
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml:23:13-42
+uses-sdk
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3d3de89e0a589210efc72a0f3677ce0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/a3d3de89e0a589210efc72a0f3677ce0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anoop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/193226419cd295dd52a2d6a868d92f6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anoop/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/193226419cd295dd52a2d6a868d92f6e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/b1c68da85a9c35f502c2c0e348c5fa4b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/b1c68da85a9c35f502c2c0e348c5fa4b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c50a0442a9df8137f508ede8ebb501b0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c50a0442a9df8137f508ede8ebb501b0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/42dd49cf2d97cdbd5b63d14e545e6cb5/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/42dd49cf2d97cdbd5b63d14e545e6cb5/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b75a04a8118e6fe6ad03fbd20452dcd4/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/b75a04a8118e6fe6ad03fbd20452dcd4/AndroidManifest.xml:20:5-43
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/anoop/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b73e0c36c3ac6f8c8163cb6f557e2666/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		ADDED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anoop/Downloads/RegisterLoginSession-20180106T212922Z-001/RegisterLoginSession/app/src/main/AndroidManifest.xml
